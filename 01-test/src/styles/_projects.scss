@@ -1,0 +1,107 @@
+$accent: rgb(250, 113, 34);
+.project-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem;
+  .project-card {
+    display: flex;
+    border: 1px solid gray;
+    width: 90%;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 2rem;
+    .project-image {
+      width: 100%;
+      aspect-ratio: 1;
+      border: 1px solid black;
+    }
+    .project-text {
+      padding: 1rem;
+      background-color: whitesmoke;
+      .project-title {
+        font-size: 22px;
+        margin: 0;
+        color: $accent;
+      }
+      .project-description {
+        font-size: 16px;
+        color: gray;
+      }
+      .button-cont {
+        display: flex;
+        justify-content: space-around;
+        button {
+          background: rgba(248, 142, 81, 0.849);
+          border: 1px solid gray;
+          border-radius: 5px;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 600px) {
+  .project-cont {
+    .project-card {
+      .project-text {
+        .project-title {
+          font-size: 30px;
+        }
+        .project-description {
+          font-size: 22px;
+        }
+        .button-cont {
+          button {
+            font-size: 1.5rem;
+            border-radius: 10px;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 1000px) {
+  .project-cont {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    .project-card {
+      width: 40vw;
+      .project-text {
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        .project-title {
+          font-size: 40px;
+        }
+        .project-description {
+          height: 225px;
+          font-size: 30px;
+        }
+        .button-cont {
+          margin-bottom: 1rem;
+          button {
+            font-size: 2rem;
+          }
+        }
+      }
+    }
+  }
+}
+@media (min-width: 1900px) {
+  .project-cont {
+    .project-card {
+      width: 35vw;
+      .project-text {
+        height: 350px;
+        .project-title {
+          font-size: 46px;
+        }
+      }
+    }
+  }
+}
