@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Web_Dev_Portfolio/static/css/main.8385c7d1.css",
+    "main.js": "/Web_Dev_Portfolio/static/js/main.f04657e2.js",
+    "static/media/profilepicEf.jpg": "/Web_Dev_Portfolio/static/media/profilepicEf.ad21c6dc4152f9578bfc.jpg",
+    "static/media/techblog-ss.jpg": "/Web_Dev_Portfolio/static/media/techblog-ss.7f866af20f5f9da33ecf.jpg",
+    "static/media/colorpallet-ss.jpg": "/Web_Dev_Portfolio/static/media/colorpallet-ss.b59c5053e72519b8820c.jpg",
+    "static/media/project-man-ss.jpg": "/Web_Dev_Portfolio/static/media/project-man-ss.71733ff20afec1ddc2e3.jpg",
+    "static/media/planner-ss.jpg": "/Web_Dev_Portfolio/static/media/planner-ss.9f1120ae10690ed20f76.jpg",
+    "static/media/towncrier-ss.jpg": "/Web_Dev_Portfolio/static/media/towncrier-ss.d19138b4400fff4a1759.jpg",
+    "index.html": "/Web_Dev_Portfolio/index.html",
+    "main.8385c7d1.css.map": "/Web_Dev_Portfolio/static/css/main.8385c7d1.css.map",
+    "main.f04657e2.js.map": "/Web_Dev_Portfolio/static/js/main.f04657e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8385c7d1.css",
+    "static/js/main.f04657e2.js"
+  ]
+}
