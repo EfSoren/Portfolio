@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.f28c3adc.css",
-    "main.js": "/Portfolio/static/js/main.11d7e8d4.js",
+    "main.js": "/Portfolio/static/js/main.428e249a.js",
     "static/media/profilepicEf.jpg": "/Portfolio/static/media/profilepicEf.ad21c6dc4152f9578bfc.jpg",
     "static/media/techblog-ss.jpg": "/Portfolio/static/media/techblog-ss.7f866af20f5f9da33ecf.jpg",
     "static/media/colorpallet-ss.jpg": "/Portfolio/static/media/colorpallet-ss.b59c5053e72519b8820c.jpg",
     "static/media/project-man-ss.jpg": "/Portfolio/static/media/project-man-ss.71733ff20afec1ddc2e3.jpg",
     "static/media/planner-ss.jpg": "/Portfolio/static/media/planner-ss.9f1120ae10690ed20f76.jpg",
     "static/media/towncrier-ss.jpg": "/Portfolio/static/media/towncrier-ss.d19138b4400fff4a1759.jpg",
+    "static/media/RentalCar.jpg": "/Portfolio/static/media/RentalCar.43ffe24774ad04d736d1.jpg",
     "index.html": "/Portfolio/index.html",
     "main.f28c3adc.css.map": "/Portfolio/static/css/main.f28c3adc.css.map",
-    "main.11d7e8d4.js.map": "/Portfolio/static/js/main.11d7e8d4.js.map"
+    "main.428e249a.js.map": "/Portfolio/static/js/main.428e249a.js.map"
   },
   "entrypoints": [
     "static/css/main.f28c3adc.css",
-    "static/js/main.11d7e8d4.js"
+    "static/js/main.428e249a.js"
   ]
 }
