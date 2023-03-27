@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.45884d8d.css",
-    "main.js": "/Portfolio/static/js/main.428e249a.js",
+    "main.css": "/Portfolio/static/css/main.c6ee70ab.css",
+    "main.js": "/Portfolio/static/js/main.5ebcb676.js",
     "static/media/profilepicEf.jpg": "/Portfolio/static/media/profilepicEf.ad21c6dc4152f9578bfc.jpg",
     "static/media/bgp.jpg": "/Portfolio/static/media/bgp.41c3b1a7ebeef7fe62cd.jpg",
     "static/media/techblog-ss.jpg": "/Portfolio/static/media/techblog-ss.7f866af20f5f9da33ecf.jpg",
@@ -11,11 +11,11 @@
     "static/media/towncrier-ss.jpg": "/Portfolio/static/media/towncrier-ss.d19138b4400fff4a1759.jpg",
     "static/media/RentalCar.jpg": "/Portfolio/static/media/RentalCar.43ffe24774ad04d736d1.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.45884d8d.css.map": "/Portfolio/static/css/main.45884d8d.css.map",
-    "main.428e249a.js.map": "/Portfolio/static/js/main.428e249a.js.map"
+    "main.c6ee70ab.css.map": "/Portfolio/static/css/main.c6ee70ab.css.map",
+    "main.5ebcb676.js.map": "/Portfolio/static/js/main.5ebcb676.js.map"
   },
   "entrypoints": [
-    "static/css/main.45884d8d.css",
-    "static/js/main.428e249a.js"
+    "static/css/main.c6ee70ab.css",
+    "static/js/main.5ebcb676.js"
   ]
 }
